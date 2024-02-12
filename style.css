@@ -1,0 +1,62 @@
+
+.container2{
+    background-color: rgb(238, 237, 237);
+    display: flex;
+    justify-content: center;
+    
+}
+.container1{
+    background-color: rgb(43, 61, 95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 150px;
+    flex-direction: column;
+}
+.text2{
+    color: white;
+    margin-top: 80px;
+}
+
+.maintext{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 70px;
+
+}
+.divbox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 50px 30px 50px;
+    border-radius: 20px;
+    background-color: white;
+}
+.text1{
+   
+    border-radius: 30px;
+}
+.btn1{
+    width: 150px;
+}
+.container3{
+    padding-top: 150px;
+   padding-bottom: 100px;
+}
+.table2{
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+.r1{
+    background-color: rgb(87, 77, 77);
+}
+.t1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.icons{
+    font-size: 30px;
+    color: red;
+}
